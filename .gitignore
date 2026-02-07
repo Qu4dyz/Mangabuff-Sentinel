@@ -1,0 +1,7 @@
+.env
+notifications.db
+processed_ids.json
+session_cache.json
+watchlist.json
+__pycache__/
+user_data.json
